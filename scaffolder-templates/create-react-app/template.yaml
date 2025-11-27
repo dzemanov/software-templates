@@ -6,7 +6,7 @@ metadata:
   description: Create a new CRA website project
   annotations:
     backstage.io/template-version: 1.0.4
-    backstage.io/source-location: url:http://github.com/dzemanov//blob/master/catalog-info.yaml
+    backstage.io/source-location: url:https://github.com/dzemanov/software-templates/template.yaml
   tags:
     - react
     - cra

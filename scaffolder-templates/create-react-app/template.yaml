@@ -5,7 +5,7 @@ metadata:
   title: Create React App Template
   description: Create a new CRA website project
   annotations:
-    backstage.io/template-version: 1.1.6
+    backstage.io/template-version: 1.1.7
   tags:
     - react
     - cra
